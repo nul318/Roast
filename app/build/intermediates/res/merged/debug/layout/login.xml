@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/PWView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="PW : "
+        android:textSize="50dp" />
+
+    <TextView
+        android:id="@+id/IDView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/PWView1"
+        android:layout_alignRight="@+id/PWView1"
+        android:text="ID : "
+        android:textSize="50dp" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/IDView1"
+        android:layout_alignTop="@+id/IDView1"
+        android:layout_toRightOf="@+id/IDView1"
+        android:ems="10"
+        android:inputType="textPersonName" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/PWView1"
+        android:layout_alignLeft="@+id/editText1"
+        android:layout_alignTop="@+id/PWView1"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+	<Button
+	    android:id="@+id/button2"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:layout_alignParentLeft="true"
+	    android:layout_marginBottom="74dp"
+	    android:text="회원가입" />
+
+	<Button
+	    android:id="@+id/button3"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBaseline="@+id/button2"
+	    android:layout_alignBottom="@+id/button2"
+	    android:layout_alignLeft="@+id/editText2"
+	    android:text="회원탈퇴" />
+
+	<Button
+	    android:id="@+id/button1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBaseline="@+id/button3"
+	    android:layout_alignBottom="@+id/button3"
+	    android:layout_alignParentRight="true"
+	    android:text="로그인" />
+    
+</RelativeLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wait.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\wait.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete_alelrt.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\delete_alelrt.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rank_alert.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\rank_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timelimit.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\timelimit.xml"
+    },
+    {
+        "merged": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rank.xml",
+        "source": "C:\\Users\\nul01\\AndroidStudioProjects\\Roast\\app\\src\\main\\res\\layout\\rank.xml"
+    }
+]
